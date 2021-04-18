@@ -18,3 +18,13 @@ repo for all things- privacy
 - Your Slack DMs aren’t as private as you think [ https://www.vox.com/recode/2020/1/24/21079275/slack-private-messages-privacy-law-enforcement-lawsuit ]
 
 - Why you should care about data privacy even if you have “nothing to hide” - **Selling Ideology** [ https://www.vox.com/recode/22250897/facebook-data-privacy-collection-algorithms-extremism ]
+
+- Behind the One-Way Mirror: A Deep Dive Into the Technology of Corporate Surveillance [ https://www.eff.org/wp/behind-the-one-way-mirror ]
+
+- Am I FLoCed? [ https://amifloced.org/ ]
+
+- Cover your tracks [ https://coveryourtracks.eff.org/ ]
+
+- Google's FLoC Whitepaper [ https://blog.google/products/ads-commerce/2021-01-privacy-sandbox/ ]
+
+- Google Chrome FLoC Trial: How to Know if You’re Being Tracked and Opt Out of it [ https://www.news18.com/amp/news/tech/google-chrome-floc-trial-how-to-know-if-youre-being-tracked-and-opt-out-of-it-3650072.html ]
