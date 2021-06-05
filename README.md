@@ -28,3 +28,5 @@ repo for all things- privacy
 - Google's FLoC Whitepaper [ https://blog.google/products/ads-commerce/2021-01-privacy-sandbox/ ]
 
 - Google Chrome FLoC Trial: How to Know if You’re Being Tracked and Opt Out of it [ https://www.news18.com/amp/news/tech/google-chrome-floc-trial-how-to-know-if-youre-being-tracked-and-opt-out-of-it-3650072.html ]
+
+- What is the Privacy Sandbox? [ https://developer.chrome.com/docs/privacy-sandbox/overview/ ]
