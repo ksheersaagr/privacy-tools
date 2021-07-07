@@ -30,3 +30,5 @@ repo for all things- privacy
 - Google Chrome FLoC Trial: How to Know if You’re Being Tracked and Opt Out of it [ https://www.news18.com/amp/news/tech/google-chrome-floc-trial-how-to-know-if-youre-being-tracked-and-opt-out-of-it-3650072.html ]
 
 - What is the Privacy Sandbox? [ https://developer.chrome.com/docs/privacy-sandbox/overview/ ]
+
+- Setup and run Pi-Hole on a Raspberry Pi [ https://privacyinternational.org/guide-step/4341/raspberry-pi-setup-and-run-pi-hole ]
