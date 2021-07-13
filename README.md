@@ -32,3 +32,13 @@ repo for all things- privacy
 - What is the Privacy Sandbox? [ https://developer.chrome.com/docs/privacy-sandbox/overview/ ]
 
 - Setup and run Pi-Hole on a Raspberry Pi [ https://privacyinternational.org/guide-step/4341/raspberry-pi-setup-and-run-pi-hole ]
+
+- The markup [ https://themarkup.org/ ]
+
+- Blacklight- scan websites [ https://themarkup.org/blacklight ]
+
+- I Scanned the Websites I Visit with Blacklight, and It’s Horrifying. Now What? [ https://themarkup.org/ask-the-markup/2020/09/22/i-scanned-the-websites-i-visit-with-blacklight-and-its-horrifying-now-what ]
+
+- The High Privacy Cost of a “Free” Website [ https://themarkup.org/blacklight/2020/09/22/blacklight-tracking-advertisers-digital-privacy-sensitive-websites ]
+
+- The Hitchhiker's Guide to Online Anonymity [ https://anonymousplanet.org/guide.html ]
