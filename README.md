@@ -42,3 +42,5 @@ repo for all things- privacy
 - The High Privacy Cost of a “Free” Website [ https://themarkup.org/blacklight/2020/09/22/blacklight-tracking-advertisers-digital-privacy-sensitive-websites ]
 
 - The Hitchhiker's Guide to Online Anonymity [ https://anonymousplanet.org/guide.html ]
+
+- Concern trolls and power grabs: Inside Big Tech’s angry, geeky, often petty war for your privacy [ https://www.protocol.com/policy/w3c-privacy-war ]
